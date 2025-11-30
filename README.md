@@ -82,5 +82,3 @@ It includes complete data analysis, visualizations, model training, evaluation, 
 
 **Sneha — Data Science Student**
 Interested in practical machine learning, analytics, and real-world data projects.
-
-�
